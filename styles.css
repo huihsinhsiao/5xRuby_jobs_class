@@ -156,4 +156,8 @@ footer {
 
 .disabled {
     visibility: hidden;
-} 
+}
+/* 助教漏掉的 */
+.css-thead {
+    background-color: rgb(240, 212, 128);
+}

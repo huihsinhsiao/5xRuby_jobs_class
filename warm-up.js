@@ -6,6 +6,7 @@ function setCookTime(cookMethod, food, time) {
     return `${cookMethod}完美${food}`
   }, time)
   console.log('準備中')
+  // return '123'
 }
 
 function start() {
